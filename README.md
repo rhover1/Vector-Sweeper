@@ -2,9 +2,10 @@
 
 Vector Sweeper
 
-    A geometric, directional mutation of the classic Minesweeper game built in C++ using the Raylib framework.
+A geometric, directional mutation of the classic Minesweeper game built in C++ using the Raylib framework.
 
-  Gameplay Overview & Features
+
+Gameplay Overview & Features:
 
     Vector Field Tracking: Cells do not display neighbor counts; instead, they project normalized mathematical vectors pointing directly toward the nearest gravitational anomaly.
 
