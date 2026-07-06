@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Vector Sweeper/Vector Sweeper.vcxproj" Id="66b33bc4-8b91-420c-b629-a4f4958da999" />
+</Solution>
